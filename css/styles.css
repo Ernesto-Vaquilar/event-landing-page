@@ -3,3 +3,7 @@ main{
     background: url("/media/jumbotron-bg.jpg") no-repeat left;
     background-size: cover;
 }
+
+section{
+    scroll-margin-top: 56px;
+}
